@@ -1,0 +1,41 @@
+_repo: The-Harvard-Classics-Volume-38--13-Scientific-Papers--Physiology-Medicine-Surgery-Geology-_5694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- Medicine
+- Harvard Classics
+- Geology
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology'
+- !lcc 'Q'
+- !lcsh 'Science'
+- !lcsh 'Physiology'
+- !lcsh 'Medicine'
+- !lcsh 'Surgery'
+- GITenberg
+tableOfContents: Journeys In Diverse Places, by Pare -- On The Motion Of The Heart
+  And Blood In Animals, by Harvey -- The Three Original Publications On Vaccination
+  Against Smallpox, by Jenner -- The Contagiousness Of Puerperal Fever, by Holmes
+  -- On The Antiseptic Principle Of The Practice Of Surgery, by Lister -- The Physiological
+  Theory Of Fermentation, by Pasteur -- The Germ Theory And Its Applications To Medicine
+  And Surgery (Revised), by Pasteur -- On The Extension Of The Germ Theory To The
+  Etiology Of Certain Common Diseases (Revised), by Pasteur -- Prejudices Which Have
+  Retarded The Progress Of Geology, by Lyell --  Uniformity In The Series Of Past
+  Changes In The Animate And Inanimate World, by Lyell.
+title: "The Harvard Classics Volume 38\r\nScientific Papers (Physiology, Medicine,\
+  \ Surgery, Geology)"
+url: http://www.gutenberg.org/ebooks/5694
