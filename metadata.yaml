@@ -1,5 +1,8 @@
 _repo: The-Harvard-Classics-Volume-38--13-Scientific-Papers--Physiology-Medicine-Surgery-Geology-_5694
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5694#The-Harvard-Classics-Volume-38--13-Scientific-Papers--Physiology-Medicine-Surgery-Geology-
 gutenberg_bookshelf:
 - Medicine
 - Harvard Classics
